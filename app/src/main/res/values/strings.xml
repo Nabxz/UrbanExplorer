@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">UrbanExplorer</string>
+
+    <!-- Local Location Data -->
+    <!-- Current City -->
+    <string name="currentCity">Winnipeg</string>
+    <string name="currentCityFunFact">Winnipeg is known as the \"Cultural Cradle of Canada\" because of its vibrant arts and culture scene</string>
+
+    <!-- Coffee -->
+    <string name="coffee1_description">A popular coffee chain offering a variety of espresso-based drinks and pastries.</string>
+    <string name="coffee2_description">International coffeehouse chain known for its signature coffee blends, teas, and snacks.</string>
+    <string name="coffee3_description">Local coffee shop known for its specialty coffee, donuts, and sandwiches.</string>
+
+    <!-- Restaurant -->
+    <string name="restaurant1_description">Restaurant known for its extensive menu featuring European-inspired dishes and cozy atmosphere.</string>
+    <string name="restaurant2_description">Modern restaurant offering Italian-American cuisine including pasta dishes and breadsticks.</string>
+    <string name="restaurant3_description">Casual restaurant specializing in fresh Mexican-inspired food, including burritos, tacos, and salads.</string>
+
+    <!-- Park -->
+    <string name="park1_description">Popular park in Winnipeg featuring extensive green spaces, walking trails, and recreational facilities.</string>
+    <string name="park2_description">Local park offering scenic trails, picnic areas, and a variety of outdoor activities.</string>
+    <string name="park3_description">Historic site and urban park in Winnipeg with markets, museums, and year-round events.</string>
+
+    <!-- Shop -->
+    <string name="shop1_description">Premier shopping mall in Winnipeg offering a wide range of retail stores and dining options.</string>
+    <string name="shop2_description">Shopping destination featuring a variety of outlet stores offering discounts on popular brands.</string>
+    <string name="shop3_description">Shopping mall known for its diverse retail stores, dining choices, and entertainment options.</string>
+    <!-- End Of Local Location Data -->
+
+    <!-- UI Data -->
+    <string name="change_location_button">Change Location</string>
+    <string name="location">LOCATION</string>
+    <string name="fun_fact">Fun Fact</string>
+    <string name="explore">Explore</string>
+    <string name="description">Description</string>
+    <string name="get_location">Get Location</string>
+    <string name="contact_us">Contact Us</string>
+
+
+</resources>
